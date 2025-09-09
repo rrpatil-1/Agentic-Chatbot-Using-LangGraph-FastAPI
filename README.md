@@ -39,8 +39,8 @@ A conversational AI chatbot agent built with FastAPI, Streamlit, and LangGraph, 
 
 1. **Clone the repository:**
    ```sh
-   git clone <https://github.com/rrpatil-1/Agentic-Chatbot-Using-LangGraph-FastAPI.git>
-   cd gentic-Chatbot-Using-LangGraph-FastAPI
+   git clone https://github.com/rrpatil-1/Agentic-Chatbot-Using-LangGraph-FastAPI.git
+   cd Agentic-Chatbot-Using-LangGraph-FastAPI
    ```
 
 2. **Create and activate a virtual environment:**
