@@ -2,7 +2,7 @@
 
 A conversational AI chatbot agent built with FastAPI, Streamlit, and LangGraph, supporting Groq LLMs and web search via Tavily. Easily define your own system prompt, select models, and interact with the agent through a web UI.
 
-![LangGraph Chatbot UI](LangGraph Chatbot frontend.png)
+![LangGraph Chatbot UI](LangGraph_Chatbot_frontend.png)
 ## Features
 
 - **FastAPI backend** for serving AI responses.
